@@ -16,7 +16,7 @@
     </div>
    
    <br><br>
-        VERSION 0.0.2
+        VERSION 0.0.3
 
       <script>
              fetch("data.json")
@@ -36,13 +36,14 @@
                 var objectified = JSON.parse(stringified);
                 postcardArray = objectified;
             }
+       console.log(postcardArray);
 
                 var postcardDiv = document.getElementById("postcards");
 
                 for (var i = 0; i < postcardArray.length; i++)
                 {
-                    postcardDiv.innerHTML = "help";
-                    //postcardDiv.innerHTML = postcardDiv.innerHTML + postcardArray[i].message + "<br>";
+                    console.log("in loop");
+                    postcardDiv.innerHTML = postcardDiv.innerHTML + postcardArray[i].message + "<br>";
                 }
    </script>
   </body>
