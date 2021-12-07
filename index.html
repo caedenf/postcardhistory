@@ -14,9 +14,11 @@
   
     <div id="postcards">
     </div>
+   
+   <br><br>
+        VERSION 0.0.1
 
       <script>
-    function load() {
              fetch("data.json")
                 .then(function (response) {
                     return response.json();
@@ -41,7 +43,6 @@
                 {
                     postcardDiv.innerHTML = postcardDiv.innerHTML + postcardArray[i].message + "<br>";
                 }
-            }
    </script>
   </body>
 </html> 
