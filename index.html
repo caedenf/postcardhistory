@@ -8,18 +8,29 @@
   <body>
 
     <div class="info">
+     <center>
       <h1>Postcard History</h1>
       <p>This page chronicles my transcriptions of my antique postcard collection.</p>
+     </center>
     </div>
   
+   <div class="postcardContainer" style="margin: 20px;">
     <div id="postcards">
     </div>
+   </div>
    
    <br><br>
-        VERSION 0.1.2
+        VERSION 0.1.4
 
       <script>
-                   var postcardArray = [];
+          //TODO
+          //- remove secondary markings from list if empty
+          //- remove commas from addresses if the spot is empty
+          //- add postcard images
+          //- format and style the page
+          //- format and style the postcard info
+       
+      
        
              fetch("data.json")
                 .then(function (response) {
@@ -35,18 +46,18 @@
             function showData(data) {
              var postcardDiv = document.getElementById("postcards");
 
-                for (var i = 0; i < data.length; i++)
+                for (var i = 0; i < data.length-1; i++)
                 {
-                   //show image front
-                 //show image back
-                 postcardDiv.innerHTML = postcardDiv.innerHTML + "Stamp Date: " + data[i].stampDate.month + "/" + data[i].stampDate.day + "/" + data[i].stampDate.year + "<br>";
-                 postcardDiv.innerHTML = postcardDiv.innerHTML + "Stamp Location: " + data[i].stampLocation.city + ", " + data[i].stampLocation.province + ", " + data[i].stampLocation.country + "<br>"; 
-                 postcardDiv.innerHTML = postcardDiv.innerHTML + "Postcard Text on Front: " + data[i].postcardText.front  + "<br>";
-                 postcardDiv.innerHTML = postcardDiv.innerHTML + "Postcard Text on Back: " + data[i].postcardText.back  + "<br>";
-                 postcardDiv.innerHTML = postcardDiv.innerHTML + "Addressed To: " + data[i].address.name + ", " + data[i].address.street + ", " + data[i].address.town + ", " + data[i].address.province + ", " + data[i].address.country + "<br>"; 
-                 postcardDiv.innerHTML = postcardDiv.innerHTML + "Message: " + data[i].message + "<br>";
-                 postcardDiv.innerHTML = postcardDiv.innerHTML + "Secondary Markings: " + data[i].secondaryMarkings + "<br>";
-                 postcardDiv.innerHTML = postcardDiv.innerHTML + "Obtained From: " + data[i].obtainedFrom + "<br><br>";
+                 //TODO show image front
+                 //TODO show image back
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "<b>Stamp Date: </b>" + data[i].stampDate.month + "/" + data[i].stampDate.day + "/" + data[i].stampDate.year + "<br>";
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "<b>Stamp Location: </b>" + data[i].stampLocation.city + ", " + data[i].stampLocation.province + ", " + data[i].stampLocation.country + "<br>"; 
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "<b>Postcard Text on Front: </b>" + data[i].postcardText.front  + "<br>";
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "<b>Postcard Text on Back: </b>" + data[i].postcardText.back  + "<br>";
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "<b>Addressed To: </b>" + data[i].address.name + ", " + data[i].address.street + ", " + data[i].address.town + ", " + data[i].address.province + ", " + data[i].address.country + "<br>"; 
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "<b>Message: </b>" + data[i].message + "<br>";
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "<b>Secondary Markings: </b>" + data[i].secondaryMarkings + "<br>";
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "<b>Obtained From: </b>" + data[i].obtainedFrom + "<br><br>";
                 }
             }
    </script>
