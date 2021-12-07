@@ -8,20 +8,22 @@
   <style>
   </style>
         <script type="text/javascript" >
-            fetch('data.json')
-            .then(response => response.json())
-            .then(data => console.log(data))
-            .catch(error => console.log(error));
             function load() {
-                //var stringData = JSON.stringify(rawData);
-                //var data = JSON.parse(stringData);
+             var jsonData;
+             
+               fetch('data.json')
+            .then(response => response.json())
+            .then(data => jsonData = data)
+            .catch(error => console.log(error));
+             
+                var parsedData = JSON.parse(jsonData);
 
-                //var div = document.getElementById('postcards');
+                var div = document.getElementById('postcards');
 
-                //for (var i = 0; i < data.length; i++)
-                //{
-                //    div.innerHTML = div.innerHTML + "mydata[i].date.isoDate" + "<br>";
-                //}
+                for (var i = 0; i < data.length; i++)
+                {
+                    div.innerHTML = div.innerHTML + "parsedData[i].date.isoDate" + "<br>";
+                }
             }
         </script>
   </head>
