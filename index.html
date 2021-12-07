@@ -16,7 +16,7 @@
     </div>
    
    <br><br>
-        VERSION 0.0.9
+        VERSION 0.0.10
 
       <script>
                    var postcardArray = [];
@@ -33,22 +33,29 @@
                 });
             
             function showData(data) {
-             console.log("data");
-             console.log(data);
-               var stringified = JSON.stringify(data);
-                var objectified = JSON.parse(stringified);
-                postcardArray = objectified;
-            }
-       console.log("array");
-       console.log(postcardArray);
+             var postcardDiv = document.getElementById("postcards");
 
-                var postcardDiv = document.getElementById("postcards");
-
-                for (var i = 0; i < postcardArray.length; i++)
+                for (var i = 0; i < data.length; i++)
                 {
                     console.log("in loop");
-                    postcardDiv.innerHTML = postcardDiv.innerHTML + postcardArray[i].message + "<br>";
+                    postcardDiv.innerHTML = postcardDiv.innerHTML + data[i].message + "<br>";
                 }
+            // console.log("data");
+            // console.log(data);
+            //   var stringified = JSON.stringify(data);
+            //    var objectified = JSON.parse(stringified);
+            //    postcardArray = objectified;
+            }
+      // console.log("array");
+      // console.log(postcardArray);
+
+                //var postcardDiv = document.getElementById("postcards");
+
+                //for (var i = 0; i < postcardArray.length; i++)
+                //{
+                //    console.log("in loop");
+                //    postcardDiv.innerHTML = postcardDiv.innerHTML + postcardArray[i].message + "<br>";
+                //}
    </script>
   </body>
 </html> 
