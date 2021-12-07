@@ -7,18 +7,17 @@
   <link rel="stylesheet" href="">
   <style>
   </style>
-  <script type="text/javascript" src="data.json"></script>
         <script type="text/javascript" >
+            import rawData from 'data.json';
             function load() {
-                var mydata = JSON.parse(data);
-                alert(mydata.length);
+                var stringData = JSON.stringify(rawData);
+                var data = JSON.parse(stringData);
 
                 var div = document.getElementById('postcards');
 
-                for (var i = 0; i < mydata.length; i++)
+                for (var i = 0; i < data.length; i++)
                 {
-                    div.innerHTML = div.innerHTML + "test";
-                    //div.innerHTML = div.innerHTML + "mydata[i].date.isoDate" + "<br>";
+                    div.innerHTML = div.innerHTML + "mydata[i].date.isoDate" + "<br>";
                 }
             }
         </script>
