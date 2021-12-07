@@ -16,7 +16,7 @@
      },
      "postcardText": {
         "front": "!check this one!",
-        "back": "Boston, Mass., Shaw Memorial, Boston Common.\n'Original Copyright, 1897 by Augustus Saint Gaudens'\nThis card authorized by the Sculptor."
+        "back": "Boston, Mass., Shaw Memorial, Boston Common.<br>'Original Copyright, 1897 by Augustus Saint Gaudens'<br>This card authorized by the Sculptor."
      },
      "address": {
         "name": "Mrs. Andrew [Nekin?]",
@@ -25,7 +25,7 @@
         "province": "!check this one!",
         "country": "!check this one!"
      },
-     "message": "2/7/1908\nSaw your name in Good Stories and would like to exchange with you. Trust you will [?and] as I find so many [?hr] [?r] not.\nCol. Shaw to whom this monument was dedicated was killed in the [A?il] [??] July 18, 1863 during an assault on Fort Wagner. [??] a much [in?uring] piece of sculpture.\nMiss Elizabeth B. Gahm\n100 Antrim St. Cambridge, Mass.",
+     "message": "2/7/1908<br>Saw your name in Good Stories and would like to exchange with you. Trust you will [?and] as I find so many [?hr] [?r] not.<br>Col. Shaw to whom this monument was dedicated was killed in the [A?il] [??] July 18, 1863 during an assault on Fort Wagner. [??] a much [in?uring] piece of sculpture.<br>Miss Elizabeth B. Gahm<br>100 Antrim St. Cambridge, Mass.",
      "secondaryMarkings": "Erected 1897.",
      "obtainedFrom": "WardMaps"
   },
@@ -55,7 +55,7 @@
         "province": "Missouri",
         "country": "USA"
      },
-     "message": "My Dear Klea [?rien]\nAren’t you coming up Thanksgiving? Let me know and what train\nLove to all Leila",
+     "message": "My Dear Klea [?rien]<br>Aren’t you coming up Thanksgiving? Let me know and what train<br>Love to all Leila",
      "secondaryMarkings": "",
      "obtainedFrom": "CAKCollectibles"
    },
@@ -85,7 +85,7 @@
         "province": "New York",
         "country": "USA"
      },
-     "message": "Having a great time, such trotting around\nWill write later\nMable",
+     "message": "Having a great time, such trotting around<br>Will write later<br>Mable",
      "secondaryMarkings": "",
      "obtainedFrom": "CAKCollectibles"
    },
@@ -115,7 +115,7 @@
         "province": "Minnesota",
         "country": "USA"
      },
-     "message": "Fertile Minn\nJuly 28.17\nDear sister,\nReceived your letter.\nI can’t say just what day we’ll go to town, as [A?nt] is busy haying but will let you know as soon as we get a chance to get him. It is best to phone the same day that we go to town. So he can take train that day.\nWe are all well\n[??]",
+     "message": "Fertile Minn<br>July 28.17<br>Dear sister,\nReceived your letter.<br>I can’t say just what day we’ll go to town, as [A?nt] is busy haying but will let you know as soon as we get a chance to get him. It is best to phone the same day that we go to town. So he can take train that day.<br>We are all well\n[??]",
      "secondaryMarkings": "",
      "obtainedFrom": "CAKCollectibles"
    },
@@ -145,7 +145,7 @@
         "province": "",
         "country": "USA"
      },
-     "message": "90 [?eusle?] Mass\n114 East Main St\nTorrington [??]\nHello folks! Up here [??] week & business is awful. Hope to go to Hartford next week. Will try & get over Sat. night. Haven’t seen a paper since I left. We are five miles from town and can’t get in at night -\nLove to you both - [Wynni?]",
+     "message": "90 [?eusle?] Mass<br>114 East Main St<br>Torrington [??]<br>Hello folks! Up here [??] week & business is awful. Hope to go to Hartford next week. Will try & get over Sat. night. Haven’t seen a paper since I left. We are five miles from town and can’t get in at night -<br>Love to you both - [Wynni?]",
      "secondaryMarkings": "",
      "obtainedFrom": "CAKCollectibles"
    },
@@ -175,7 +175,7 @@
         "province": "Illinois",
         "country": "USA"
      },
-     "message": "My dear Mrs. Robert A. [Cromie?]-\nX marks my room - lovely view & water running all the time. Expect to be much [??] on return. And a royal flush to you too,\nRattle",
+     "message": "My dear Mrs. Robert A. [Cromie?]-<br>X marks my room - lovely view & water running all the time. Expect to be much [??] on return. And a royal flush to you too,<br>Rattle",
      "secondaryMarkings": "",
      "obtainedFrom": "CAKCollectibles"
    },
@@ -205,7 +205,7 @@
         "province": "Michigan",
         "country": "USA"
      },
-     "message": "Hi folks\nWe are having grand weather just like summer. Will be seeing you one of these days\nMildred",
+     "message": "Hi folks<br>We are having grand weather just like summer. Will be seeing you one of these days<br>Mildred",
      "secondaryMarkings": "",
      "obtainedFrom": "CAKCollectibles"
    },
@@ -235,7 +235,7 @@
         "province": "Illinois",
         "country": "USA"
      },
-     "message": "Mobile Ala\nMarch 28\nDear Michael\nWe are staying beside a beautiful [??] - It is wonderful swimming = [??] & clear fast flowing water. The tides make a difference of from [??] to [the? ??] depth [?? ??] Bay - we shall be home Sunday Love to all\nHolly",
+     "message": "Mobile Ala<br>March 28<br>Dear Michael\nWe are staying beside a beautiful [??] - It is wonderful swimming = [??] & clear fast flowing water. The tides make a difference of from [??] to [the? ??] depth [?? ??] Bay - we shall be home Sunday Love to all<br>Holly",
      "secondaryMarkings": "",
      "obtainedFrom": "CAKCollectibles"
    },
@@ -255,7 +255,7 @@
         "country": "USA"
      },
      "postcardText": {
-        "front": "Sousa’s Memorial Fountain of Rainbows\nWillow Grove Park\nWillow Grove PA.",
+        "front": "Sousa’s Memorial Fountain of Rainbows<br>Willow Grove Park<br>Willow Grove PA.",
         "back": "!check this one!"
      },
      "address": {
@@ -265,7 +265,7 @@
         "province": "Ohio",
         "country": "USA"
      },
-     "message": "Dear Eva;\nHaving a wonderful time. I’m beginning to think other towns are better than Cin.\nLove\nFlorence & Mrs. Snow",
+     "message": "Dear Eva;<br>Having a wonderful time. I’m beginning to think other towns are better than Cin.<br>Love<br>Florence & Mrs. Snow",
      "secondaryMarkings": "",
      "obtainedFrom": "CAKCollectibles"
    },
@@ -295,7 +295,7 @@
         "province": "Minnesota",
         "country": "USA"
      },
-     "message": "Hello.\nGoing over letters I see I have no answer to my letter of Jan 26th. I would like to hear from you in regards as to whether your still collecting or not. Am starting to drop all who are not actual members. So hope to hear from you soon.\nSincerely\nWm. W Beal\n55 Franklin St\nLawrence 3 Mass",
+     "message": "Hello.<br>Going over letters I see I have no answer to my letter of Jan 26th. I would like to hear from you in regards as to whether your still collecting or not. Am starting to drop all who are not actual members. So hope to hear from you soon.<br>Sincerely<br>Wm. W Beal<br>55 Franklin St<br>Lawrence 3 Mass",
      "secondaryMarkings": "",
      "obtainedFrom": "CAKCollectibles"
    },
@@ -325,7 +325,7 @@
         "province": "P. [R?].",
         "country": ""
      },
-     "message": "Cheri Madame\nUn mot [J?] [?oi?] [dire?] que je fais un [??] voyage et c’est [heir?] agréable d’être en vacances je [serai?] au Cape Cod la semaine prochaine je me propose de [prendre?] [?es] portrait je [?ou] [senai?] [hentot?] Luciele",
+     "message": "Cheri Madame<br>Un mot [J?] [?oi?] [dire?] que je fais un [??] voyage et c’est [heir?] agréable d’être en vacances je [serai?] au Cape Cod la semaine prochaine je me propose de [prendre?] [?es] portrait je [?ou] [senai?] [hentot?] Luciele",
      "secondaryMarkings": "",
      "obtainedFrom": "WardMaps"
    },
@@ -345,7 +345,7 @@
         "country": "Canada"
      },
      "postcardText": {
-        "front": "Air View Peggy’s Cove\nNova Scotia",
+        "front": "Air View Peggy’s Cove<br>Nova Scotia",
         "back": "!check this one!"
      },
      "address": {
@@ -355,7 +355,7 @@
         "province": "Ohio",
         "country": "USA"
      },
-     "message": "Hi Everyone!\nHalifax tonight. Conducted tour of the city tomorrow and toward gravel Pre & Evangeline Country tomorrow. Roads have been excellent. Enjoyed seeing tides push St. Julius’ [Rines?] backwards yesterday - Edie B.",
+     "message": "Hi Everyone!<br>Halifax tonight. Conducted tour of the city tomorrow and toward gravel Pre & Evangeline Country tomorrow. Roads have been excellent. Enjoyed seeing tides push St. Julius’ [Rines?] backwards yesterday - Edie B.",
      "secondaryMarkings": "",
      "obtainedFrom": "CAKCollectibles"
    },
@@ -376,7 +376,7 @@
      },
      "postcardText": {
         "front": "",
-        "back": "Safari Hotel\nScottsdale, Arizona\nFirst in Scottsdale, open all year, all 200 rooms overlook 11 acres of gardens, 2 swimming pools and children’s pool. Convention facilities for up to 500. Gracious dining in dining room or 24-hour Coffee House. Cocktails in Safari Lounge or lively French Quarter. Dancing nightly. Complete hotel services.\nOwners, Ernie Uhlmann, Bill Ritter"
+        "back": "Safari Hotel<br>Scottsdale, Arizona<br>First in Scottsdale, open all year, all 200 rooms overlook 11 acres of gardens, 2 swimming pools and children’s pool. Convention facilities for up to 500. Gracious dining in dining room or 24-hour Coffee House. Cocktails in Safari Lounge or lively French Quarter. Dancing nightly. Complete hotel services.<br>Owners, Ernie Uhlmann, Bill Ritter"
      },
      "address": {
         "name": "The [Borins?]",
@@ -385,7 +385,7 @@
         "province": "Michigan",
         "country": "USA"
      },
-     "message": "Hi. Hope you had a nice trip home. Sorry we missed you in Phoenix. We were in LA. Saw Betty [Borin?] in LA. See you when we get home\nLove & Regards\nJane Weisman",
+     "message": "Hi. Hope you had a nice trip home. Sorry we missed you in Phoenix. We were in LA. Saw Betty [Borin?] in LA. See you when we get home<br>Love & Regards<br>Jane Weisman",
      "secondaryMarkings": "",
      "obtainedFrom": "CAKCollectibles"
    },
@@ -406,7 +406,7 @@
      },
      "postcardText": {
         "front": "!check this one!",
-        "back": "W-C-5 - Philips Memorial, State Teachers’ College, West Chester, Pa.\nWest Chester is the county seat of Chester County. It is located 24 miles west of Philadelphia near historic Valley Forge. It is the seat of the State Teacher’s College."
+        "back": "W-C-5 - Philips Memorial, State Teachers’ College, West Chester, Pa.<br>West Chester is the county seat of Chester County. It is located 24 miles west of Philadelphia near historic Valley Forge. It is the seat of the State Teacher’s College."
      },
      "address": {
         "name": "John Curtiss",
@@ -415,7 +415,7 @@
         "province": "Wisconsin",
         "country": "USA"
      },
-     "message": "Hi John,\nChristmas day temperature was 50. Went to Washington, D.C. Went to Phile. Went to Baltimore. Saw Valley Force. Saw United States Capitol. I am staying at my uncles in West Chester, Pa. I am leaving here Wed, Dec. 28 on a train. Going to New York now.\nFrom Greg",
+     "message": "Hi John,<br>Christmas day temperature was 50. Went to Washington, D.C. Went to Phile. Went to Baltimore. Saw Valley Force. Saw United States Capitol. I am staying at my uncles in West Chester, Pa. I am leaving here Wed, Dec. 28 on a train. Going to New York now.<br>From Greg",
      "secondaryMarkings": "",
      "obtainedFrom": "CAKCollectibles"
    },
@@ -436,7 +436,7 @@
      },
      "postcardText": {
         "front": "",
-        "back": "“CAPT. ANDERSON”\nThis beautiful, triple deck 95 ft., 400-passenger air-conditioned and heated “Capt. Anderson” features daily Sight-Seeing and Dinner-Dance Cruises. Private charters available. It operates from St. Petersburg Beach in the winter and the Capt. Anderson Marina, Panama City in the summer.\nPhone: St. Petersburg (813) 367-7804\nPhone Panama City (904) 234-5940\n(800) 533-2288"
+        "back": "“CAPT. ANDERSON”<br>This beautiful, triple deck 95 ft., 400-passenger air-conditioned and heated “Capt. Anderson” features daily Sight-Seeing and Dinner-Dance Cruises. Private charters available. It operates from St. Petersburg Beach in the winter and the Capt. Anderson Marina, Panama City in the summer.<br>Phone: St. Petersburg (813) 367-7804<br>Phone Panama City (904) 234-5940<br>(800) 533-2288"
      },
      "address": {
         "name": "Mr & Mrs Ivan Fohler",
@@ -445,7 +445,7 @@
         "province": "Ohio",
         "country": "USA"
      },
-     "message": "Dear Rosemary & Ivan\nWe are on the top deck of this cruise boat, enjoying the lovely scenery, the relaxing hum of the motor. It’s a 2-hr trip, so am writing a few cards. Wonderful [?athe?] so far - been to the beach twice, Disney World all day yesterday, will go again Fri. Laura is so much fun. She’s staying til Sun.\nLove, Liz",
+     "message": "Dear Rosemary & Ivan<br>We are on the top deck of this cruise boat, enjoying the lovely scenery, the relaxing hum of the motor. It’s a 2-hr trip, so am writing a few cards. Wonderful [?athe?] so far - been to the beach twice, Disney World all day yesterday, will go again Fri. Laura is so much fun. She’s staying til Sun.<br>Love, Liz",
      "secondaryMarkings": "Wed. Mar 4, 1992 11:30AM",
      "obtainedFrom": "CAKCollectibles"
    },
@@ -475,7 +475,7 @@
         "province": "",
         "country": "USA"
      },
-     "message": "Nov 24\nDear Cullie:\nJust found this card addressed to you and never sent I was awful sick yesterday had the flu so don’t feel very good today but better",
+     "message": "Nov 24<br>Dear Cullie:<br>Just found this card addressed to you and never sent I was awful sick yesterday had the flu so don’t feel very good today but better",
      "secondaryMarkings": "",
      "obtainedFrom": "CAKCollectibles"
    },
@@ -495,7 +495,7 @@
         "country": "USA"
      },
      "postcardText": {
-        "front": "Old Siege Wall\nMarion Square\nCharleston, S.C.",
+        "front": "Old Siege Wall<br>Marion Square<br>Charleston, S.C.",
         "back": "OLD SIEGE WALL, Marion Square - Within an iron railing on the plaza is a remnant of the old “Tapia” or more commonly called “Tabby” work built during the Revolution as a defense for the American Army."
      },
      "address": {
@@ -505,7 +505,7 @@
         "province": "",
         "country": "USA"
      },
-     "message": "Hello Snookums\n[K?d] of cold here [low] work \ndont know when I will be home \nguess in the Spring So [load?]\nDave",
+     "message": "Hello Snookums<br>[K?d] of cold here [low] work <br>dont know when I will be home <br>guess in the Spring So [load?]<br>Dave",
      "secondaryMarkings": "",
      "obtainedFrom": "CAKCollectibles"
    },
