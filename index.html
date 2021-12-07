@@ -16,9 +16,11 @@
     </div>
    
    <br><br>
-        VERSION 0.0.3
+        VERSION 0.0.4
 
       <script>
+                   var postcardArray = [];
+       
              fetch("data.json")
                 .then(function (response) {
                     return response.json();
@@ -30,7 +32,6 @@
                     console.log(error);
                 });
             
-            var postcardArray = [];
             function showData(data) {
                 var stringified = JSON.stringify(data);
                 var objectified = JSON.parse(stringified);
