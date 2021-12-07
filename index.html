@@ -9,20 +9,29 @@
   </style>
         <script type="text/javascript" >
             function load() {
-             var jsonData;
-             
-               fetch('data.json')
-            .then(response => response.json())
-            .then(data => jsonData = data)
-            .catch(error => console.log(error));
-             
-                var parsedData = JSON.parse(jsonData);
+             fetch("data.json")
+                .then(function (response) {
+                    return response.json();
+                })
+                .then(function (data) {
+                    showData(data);
+                })
+                .catch(function (error) {
+                    console.log(error);
+                });
+            
+            var postcardArray = [];
+            function showData(data) {
+                var stringified = JSON.stringify(data);
+                var objectified = JSON.parse(stringified);
+                postcardArray = objectified;
+            }
 
                 var div = document.getElementById('postcards');
 
                 for (var i = 0; i < data.length; i++)
                 {
-                    div.innerHTML = div.innerHTML + "parsedData[i].date.isoDate" + "<br>";
+                    div.innerHTML = div.innerHTML + postcardArray[i].date.isoDate + "<br>";
                 }
             }
         </script>
