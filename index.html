@@ -16,7 +16,7 @@
     </div>
    
    <br><br>
-        VERSION 0.0.10
+        VERSION 0.1.0
 
       <script>
                    var postcardArray = [];
@@ -37,25 +37,17 @@
 
                 for (var i = 0; i < data.length; i++)
                 {
-                    console.log("in loop");
-                    postcardDiv.innerHTML = postcardDiv.innerHTML + data[i].message + "<br>";
+                   //show image front
+                 //show image back
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "Stamp Date: " + data[i].stampDate.month + "/" + data[i].stampDate.day + "/" + data[i].stampDate.year + "<br>";
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "Stamp Location: " + data[i].stampLocation.city + ", " + data[i].stampLocation.province + ", " + data[i].stampLocation.country + "<br>"; 
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "Postcard Text on Front: " + data[i].postcardText.front  + "<br>";
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "Postcard Text on Back: " + data[i].postcardText.back  + "<br>";
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "Addressed To: " + data[i].address.name + ", " + data[i].address.street + ", " + data[i].address.town + ", " + data[i].address.province + ", " + data[i].address.country + "<br>"; 
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "Message: " + data[i].message + "<br>";
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "Secondary Markings: " + data[i].secondaryMarkings + "<br>";
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "Obtained From: " + data[i].obtainedFrom + "<br>";
                 }
-            // console.log("data");
-            // console.log(data);
-            //   var stringified = JSON.stringify(data);
-            //    var objectified = JSON.parse(stringified);
-            //    postcardArray = objectified;
-            }
-      // console.log("array");
-      // console.log(postcardArray);
-
-                //var postcardDiv = document.getElementById("postcards");
-
-                //for (var i = 0; i < postcardArray.length; i++)
-                //{
-                //    console.log("in loop");
-                //    postcardDiv.innerHTML = postcardDiv.innerHTML + postcardArray[i].message + "<br>";
-                //}
    </script>
   </body>
 </html> 
