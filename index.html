@@ -20,7 +20,7 @@
    </div>
    
    <br><br>
-        VERSION 0.1.4
+        VERSION 0.1.5
 
       <script>
           //TODO
@@ -51,7 +51,9 @@
                 for (var i = 0; i < data.length-1; i++)
                 {
                  //TODO show image front
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "<img src='" + data[i].cardFront + "'>";
                  //TODO show image back
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "<img src='" + data[i].cardBack + "'><br>";
                  postcardDiv.innerHTML = postcardDiv.innerHTML + "<b>Stamp Date: </b>" + data[i].stampDate.month + "/" + data[i].stampDate.day + "/" + data[i].stampDate.year + "<br>";
                  postcardDiv.innerHTML = postcardDiv.innerHTML + "<b>Stamp Location: </b>" + data[i].stampLocation.city + ", " + data[i].stampLocation.province + ", " + data[i].stampLocation.country + "<br>"; 
                  postcardDiv.innerHTML = postcardDiv.innerHTML + "<b>Postcard Text on Front: </b>" + data[i].postcardText.front  + "<br>";
