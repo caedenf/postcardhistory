@@ -4,6 +4,17 @@
   <meta charset="UTF-8">
   <title>Postcard History</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
+   <style>
+    .resize {
+    width:10%;
+    height:10%;
+}
+
+.resize:hover {
+    height:50%;
+    width:50%;
+}
+   </style>
   </head>
   <body>
 
@@ -20,14 +31,13 @@
    </div>
    
    <br><br>
-        VERSION 0.1.5
+        VERSION 0.1.6
 
       <script>
           //TODO
           //- sort postcards by date
           //- remove secondary markings from list if empty
           //- remove commas from addresses if the spot is empty
-          //- add postcard images
           //- format and style the page
           //- format and style the postcard info
           //- add additional sorting functions: show all, date descending, date ascending, filter by state (sent / received)
@@ -50,10 +60,8 @@
 
                 for (var i = 0; i < data.length-1; i++)
                 {
-                 //TODO show image front
-                 postcardDiv.innerHTML = postcardDiv.innerHTML + "<img src='" + data[i].cardFront + "'>";
-                 //TODO show image back
-                 postcardDiv.innerHTML = postcardDiv.innerHTML + "<img src='" + data[i].cardBack + "'><br>";
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "<img src='" + data[i].cardFront + "' class='resize'>";
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "<img src='" + data[i].cardBack + "' class='resize'><br>";
                  postcardDiv.innerHTML = postcardDiv.innerHTML + "<b>Stamp Date: </b>" + data[i].stampDate.month + "/" + data[i].stampDate.day + "/" + data[i].stampDate.year + "<br>";
                  postcardDiv.innerHTML = postcardDiv.innerHTML + "<b>Stamp Location: </b>" + data[i].stampLocation.city + ", " + data[i].stampLocation.province + ", " + data[i].stampLocation.country + "<br>"; 
                  postcardDiv.innerHTML = postcardDiv.innerHTML + "<b>Postcard Text on Front: </b>" + data[i].postcardText.front  + "<br>";
