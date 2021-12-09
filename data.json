@@ -1,7 +1,7 @@
 [
   {
-    "cardFront": "an image link here",
-    "cardBack": "an image link here",
+    "cardFront": "/postcardImages/3.jpg",
+    "cardBack": "/postcardImages/4.jpg",
     "stampDate": {
         "isoDate": "1908-02-10",
         "day": "10",
@@ -15,8 +15,8 @@
         "country": "USA"
      },
      "postcardText": {
-        "front": "!check this one!",
-        "back": "Boston, Mass., Shaw Memorial, Boston Common.<br>'Original Copyright, 1897 by Augustus Saint Gaudens'<br>This card authorized by the Sculptor."
+        "front": "Boston, Mass., Shaw Memorial, Boston Common.<br>'Original Copyright, 1897 by Augustus Saint Gaudens'<br>This card authorized by the Sculptor.",
+        "back": ""
      },
      "address": {
         "name": "Mrs. Andrew [Nekin?]",
@@ -30,8 +30,8 @@
      "obtainedFrom": "WardMaps"
   },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "/postcardImages/27.jpg",
+     "cardBack": "/postcardImages/28.jpg",
      "stampDate": {
         "isoDate": "1905-11-27",
         "day": "27",
@@ -46,7 +46,7 @@
      },
      "postcardText": {
         "front": "Fort Leavenworth - Thomas Ave., West End.",
-        "back": "!check this one!"
+        "back": ""
      },
      "address": {
         "name": "Miss Klea [?rien] Elgin",
@@ -60,8 +60,8 @@
      "obtainedFrom": "CAKCollectibles"
    },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "/postcardImages/33.jpg",
+     "cardBack": "/postcardImages/34.jpg",
      "stampDate": {
         "isoDate": "1911-09-13",
         "day": "13",
@@ -76,7 +76,7 @@
      },
      "postcardText": {
         "front": "Primary and Grammar Schools, Montclair, N.J.",
-        "back": "!check this one!"
+        "back": ""
      },
      "address": {
         "name": "Mrs Richard Wagner",
@@ -90,8 +90,8 @@
      "obtainedFrom": "CAKCollectibles"
    },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "/postcardImages/25.jpg",
+     "cardBack": "/postcardImages/26.jpg",
      "stampDate": {
         "isoDate": "1917-07-28",
         "day": "28",
@@ -105,7 +105,7 @@
         "country": "USA"
      },
      "postcardText": {
-        "front": "!check this one!",
+        "front": "CANADIAN ROCKIES, Mount Stephen & Cathedral Peak",
         "back": "55. CANADIAN ROCKIES, MOUNT STEPHEN AND CATHEDRAL PEAK. - One of the most interesting sights in the Canadian Rockies is Mount Stephen and Cathedral Peak, from which a splendid view can be had from Burgess Pass. Cathedral Peak is 10,204 feet high."
      },
      "address": {
@@ -120,8 +120,8 @@
      "obtainedFrom": "CAKCollectibles"
    },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "/postcardImages/9.jpg",
+     "cardBack": "/postcardImages/10.jpg",
      "stampDate": {
         "isoDate": "1940-07-17",
         "day": "17",
@@ -150,8 +150,8 @@
      "obtainedFrom": "CAKCollectibles"
    },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "/postcardImages/15.jpg",
+     "cardBack": "/postcardImages/16.jpg",
      "stampDate": {
         "isoDate": "1942-06-27",
         "day": "27",
@@ -180,8 +180,8 @@
      "obtainedFrom": "CAKCollectibles"
    },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "/postcardImages/23.jpg",
+     "cardBack": "/postcardImages/24.jpg",
      "stampDate": {
         "isoDate": "1946-10-03",
         "day": "03",
@@ -196,7 +196,7 @@
      },
      "postcardText": {
         "front": "Hilton Beach, St. Joe’s Isle, Ont., Canada",
-        "back": "!check this one!"
+        "back": ""
      },
      "address": {
         "name": "Mrs L. Kik",
@@ -210,8 +210,8 @@
      "obtainedFrom": "CAKCollectibles"
    },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "/postcardImages/17.jpg",
+     "cardBack": "/postcardImages/18.jpg",
      "stampDate": {
         "isoDate": "1950-03-29",
         "day": "29",
@@ -240,8 +240,8 @@
      "obtainedFrom": "CAKCollectibles"
    },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "/postcardImages/21.jpg",
+     "cardBack": "/postcardImages/22.jpg",
      "stampDate": {
         "isoDate": "1950-07-21",
         "day": "21",
@@ -256,7 +256,7 @@
      },
      "postcardText": {
         "front": "Sousa’s Memorial Fountain of Rainbows<br>Willow Grove Park<br>Willow Grove PA.",
-        "back": "!check this one!"
+        "back": ""
      },
      "address": {
         "name": "Miss Evelyn Boerst",
@@ -270,8 +270,8 @@
      "obtainedFrom": "CAKCollectibles"
    },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "/postcardImages/19.jpg",
+     "cardBack": "/postcardImages/20.jpg",
      "stampDate": {
         "isoDate": "1952-05-09",
         "day": "09",
@@ -286,7 +286,7 @@
      },
      "postcardText": {
         "front": "Greetings from Waterbury, Connecticut",
-        "back": "!check this one!"
+        "back": ""
      },
      "address": {
         "name": "Mrs. Ernest Maker",
@@ -300,8 +300,8 @@
      "obtainedFrom": "CAKCollectibles"
    },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "/postcardImages/5.jpg",
+     "cardBack": "/postcardImages/6.jpg",
      "stampDate": {
         "isoDate": "1957-06-26",
         "day": "26",
@@ -316,7 +316,7 @@
      },
      "postcardText": {
         "front": "Shell Band Stand on the Esplanade along Charles River, Boston, Mass.",
-        "back": "!check this one!"
+        "back": ""
      },
      "address": {
         "name": "[M?] [?no] E.J. [Judoir?]",
@@ -330,8 +330,8 @@
      "obtainedFrom": "WardMaps"
    },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "/postcardImages/11.jpg",
+     "cardBack": "/postcardImages/12.jpg",
      "stampDate": {
         "isoDate": "1962-09-21",
         "day": "21",
@@ -345,8 +345,8 @@
         "country": "Canada"
      },
      "postcardText": {
-        "front": "Air View Peggy’s Cove<br>Nova Scotia",
-        "back": "!check this one!"
+        "front": "",
+        "back": "Air View Peggy’s Cove<br>Nova Scotia"
      },
      "address": {
         "name": "Land Title Guarantee & Trust Company",
@@ -360,8 +360,8 @@
      "obtainedFrom": "CAKCollectibles"
    },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "/postcardImages/13.jpg",
+     "cardBack": "/postcardImages/14.jpg",
      "stampDate": {
         "isoDate": "1963-03-07",
         "day": "07",
@@ -390,8 +390,8 @@
      "obtainedFrom": "CAKCollectibles"
    },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "/postcardImages/1.jpg",
+     "cardBack": "/postcardImages/2.jpg",
      "stampDate": {
         "isoDate": "1965-12-26",
         "day": "26",
@@ -405,8 +405,8 @@
         "country": "USA"
      },
      "postcardText": {
-        "front": "!check this one!",
-        "back": "W-C-5 - Philips Memorial, State Teachers’ College, West Chester, Pa.<br>West Chester is the county seat of Chester County. It is located 24 miles west of Philadelphia near historic Valley Forge. It is the seat of the State Teacher’s College."
+        "front": "W-C-5 - Philips Memorial, State Teachers’ College, West Chester, Pa.",
+        "back": "West Chester is the county seat of Chester County. It is located 24 miles west of Philadelphia near historic Valley Forge. It is the seat of the State Teacher’s College."
      },
      "address": {
         "name": "John Curtiss",
@@ -420,8 +420,8 @@
      "obtainedFrom": "CAKCollectibles"
    },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "/postcardImages/7.jpg",
+     "cardBack": "/postcardImages/8.jpg",
      "stampDate": {
         "isoDate": "1992-03-06",
         "day": "06",
@@ -436,7 +436,7 @@
      },
      "postcardText": {
         "front": "",
-        "back": "“CAPT. ANDERSON”<br>This beautiful, triple deck 95 ft., 400-passenger air-conditioned and heated “Capt. Anderson” features daily Sight-Seeing and Dinner-Dance Cruises. Private charters available. It operates from St. Petersburg Beach in the winter and the Capt. Anderson Marina, Panama City in the summer.<br>Phone: St. Petersburg (813) 367-7804<br>Phone Panama City (904) 234-5940<br>(800) 533-2288"
+        "back": "'CAPT. ANDERSON'<br>This beautiful, triple deck 95 ft., 400-passenger air-conditioned and heated 'Capt. Anderson' features daily Sight-Seeing and Dinner-Dance Cruises. Private charters available. It operates from St. Petersburg Beach in the winter and the Capt. Anderson Marina, Panama City in the summer.<br>Phone: St. Petersburg (813) 367-7804<br>Phone Panama City (904) 234-5940<br>(800) 533-2288"
      },
      "address": {
         "name": "Mr & Mrs Ivan Fohler",
@@ -450,8 +450,8 @@
      "obtainedFrom": "CAKCollectibles"
    },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "/postcardImages/31.jpg",
+     "cardBack": "/postcardImages/32.jpg",
      "stampDate": {
         "isoDate": "",
         "day": "11",
@@ -480,8 +480,8 @@
      "obtainedFrom": "CAKCollectibles"
    },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "/postcardImages/29.jpg",
+     "cardBack": "/postcardImages/30.jpg",
      "stampDate": {
         "isoDate": "",
         "day": "18",
