@@ -6,13 +6,13 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
    <style>
     .resize {
-    width:45%;
-    height:45%;
+    width:50%;
+    height:50%;
 }
 
 .resize:hover {
-    height:70%;
-    width:70%;
+    height:100%;
+    width:100%;
 }
    </style>
   </head>
@@ -60,7 +60,7 @@
 
                 for (var i = 0; i < data.length-1; i++)
                 {
-                 postcardDiv.innerHTML = postcardDiv.innerHTML + "<img src='" + data[i].cardFront + "' class='resize'>";
+                 postcardDiv.innerHTML = postcardDiv.innerHTML + "<img src='" + data[i].cardFront + "' class='resize'><br>";
                  postcardDiv.innerHTML = postcardDiv.innerHTML + "<img src='" + data[i].cardBack + "' class='resize'><br>";
                  postcardDiv.innerHTML = postcardDiv.innerHTML + "<b>Stamp Date: </b>" + data[i].stampDate.month + "/" + data[i].stampDate.day + "/" + data[i].stampDate.year + "<br>";
                  postcardDiv.innerHTML = postcardDiv.innerHTML + "<b>Stamp Location: </b>" + data[i].stampLocation.city + ", " + data[i].stampLocation.province + ", " + data[i].stampLocation.country + "<br>"; 
