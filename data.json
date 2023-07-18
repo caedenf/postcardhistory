@@ -483,10 +483,10 @@
      "cardFront": "postcardImages/29.jpg",
      "cardBack": "postcardImages/30.jpg",
      "stampDate": {
-        "isoDate": "",
+        "isoDate": "?",
         "day": "18",
-        "month": "",
-        "year": "",
+        "month": "?",
+        "year": "?",
         "time": "10PM"
      },
      "stampLocation": {
@@ -510,8 +510,98 @@
      "obtainedFrom": "CAKCollectibles"
    },
   {
-     "cardFront": "an image link here",
-     "cardBack": "an image link here",
+     "cardFront": "postcardImages/35.jpg",
+     "cardBack": "postcardImages/36.jpg",
+     "stampDate": {
+        "isoDate": "?",
+        "day": "?",
+        "month": "?",
+        "year": "?",
+        "time": "?"
+     },
+     "stampLocation": {
+        "city": "?",
+        "province": "?",
+        "country": "?"
+     },
+     "postcardText": {
+        "front": "N/A",
+        "back": "POST CARD<br>EGYPT<br>ISIS<br>Louxor. Anubis and Hariesis leading the King."
+     },
+     "address": {
+        "name": "Mr & Mrs George Bobrich",
+        "street": "4839 West Balmoral Ave",
+        "town": "Chicago",
+        "province": "Illinois",
+        "country": "USA"
+     },
+     "message": "Hi!<br>All is well - hope all of you are fine & all of the animals are okay. Hope daddy is continuing Cinder's education & she is behaving herself! We are in Aswan today - yesterday Abu Simbel. Tomorrow, Luxor & Karnak. Slight stomach problem but medicine took effect! Love, Milsa & Bobbe",
+     "secondaryMarkings": "N/A",
+     "obtainedFrom": "Etsy"
+   },
+  {
+     "cardFront": "postcardImages/37",
+     "cardBack": "postcardImages/38",
+     "stampDate": {
+        "isoDate": "N/A",
+        "day": "N/A",
+        "month": "N/A",
+        "year": "N/A",
+        "time": "N/A"
+     },
+     "stampLocation": {
+        "city": "N/A",
+        "province": "N/A",
+        "country": "N/A"
+     },
+     "postcardText": {
+        "front": "N/A",
+        "back": "Temple Emanu-El<br>San Francisco, California<br>Congregation founded in 1850. Present building of Byzatine-Roman architecture dedicated in 1926.<br>Two pulpits are for preaching (lower) and reading from the Scrolls (upper). Central feature is the world famous bronze and jeweled Ark under a marble canopy from which is suspended the Ner Tamid. A gilt Menorah is on each side. Altar tapestries of deep blue color are centered on the Star of David and the Tetragrammaton (unpronounceable Name of God).<br>post card<br>74544-D Photography by Richard E. Leeds<br>dp MADE BY DEXTER PRESS WEST NYACK, NEW YORK"
+     },
+     "address": {
+        "name": "for Mango",
+        "street": "N/A",
+        "town": "N/A",
+        "province": "N/A",
+        "country": "N/A"
+     },
+     "message": "Souvenir<br>from<br>[Jq?] and Bella",
+     "secondaryMarkings": "N/A",
+     "obtainedFrom": "Etsy"
+   },
+  {
+     "cardFront": "postcardImages/39",
+     "cardBack": "postcardImages/40",
+     "stampDate": {
+        "isoDate": "2008-04-21",
+        "day": "21",
+        "month": "4",
+        "year": "2008",
+        "time": "N/A"
+     },
+     "stampLocation": {
+        "city": "Kristiana",
+        "province": "N/A",
+        "country": "Norway"
+     },
+     "postcardText": {
+        "front": "N/A",
+        "back": "[VER?NSPOSTFO?NGEN]<br>UNION POSTALE UNIVERSELLE<br>Brevkort fra Norge (Norvége)<br>Fra Kristianafjorden<br>P. S. E. 21"
+     },
+     "address": {
+        "name": "Miss Lillian Wilson",
+        "street": "323 Chapman [?]",
+        "town": "Portland",
+        "province": "Oregon",
+        "country": "USA"
+     },
+     "message": "",
+     "secondaryMarkings": "",
+     "obtainedFrom": ""
+   },
+  {
+     "cardFront": "postcardImages/",
+     "cardBack": "postcardImages/",
      "stampDate": {
         "isoDate": "",
         "day": "",
