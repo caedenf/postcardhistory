@@ -58,7 +58,7 @@
             function showData(data) {
              var postcardDiv = document.getElementById("postcards");
 
-                for (var i = 0; i < data.length-1; i++)
+                for (var i = 0; i < data.length-3; i++)//set back to length-1
                 {
                  postcardDiv.innerHTML = postcardDiv.innerHTML + "<img src='" + data[i].cardFront + "' class='resize'><br>";
                  postcardDiv.innerHTML = postcardDiv.innerHTML + "<img src='" + data[i].cardBack + "' class='resize'><br>";
